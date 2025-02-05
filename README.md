@@ -1,4 +1,4 @@
-# validateCreditCardNumber
+# Validate Credit Card Number
 
 Entrega do Desafio de Criar um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot no Módulo 3 do Bootcamp Microsoft AI for Tech - GitHub Copilot
 

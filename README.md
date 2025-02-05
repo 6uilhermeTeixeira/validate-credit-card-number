@@ -15,7 +15,7 @@ Entrega do Desafio de Criar um Validador de Bandeiras de Cartão de Crédito com
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/6uilhermeTeixeira/RequisitandoDadosAPICriptomoedas.git
+git clone https://github.com/6uilhermeTeixeira/validate-credit-card-number.git
 ```
 
 2. Abra a pasta do repositório clonado dentro do VS Code e abra um terminal para executar comandos com Node.JS
